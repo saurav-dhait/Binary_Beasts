@@ -1,6 +1,6 @@
 # AGILE LMS - Learning Management System
 
-AGILE LMS is a modern Learning Management System designed to revolutionize the education experience for both students and teachers. This platform integrates cutting-edge technology, personalized learning experiences, and robust features to enhance capacity building, performance assessment, and motivation-driven faculty upgradation.
+AGILE LMS is a modern Learning Management System designed to revolutionize the education experience for both students and teachers.
 
 ## Prerequisites
 
