@@ -1,6 +1,6 @@
-# AGILE LMS - Learning Management System [Hackathon Project]
+# AGILE LMS  [Hackathon Project]
 
-Hackathon task - Build a LMS for teacher and students
+Hackathon task - Build a learning management system for teachers and students
 
 Solution :- 
 AGILE LMS , A modern Learning Management System designed to revolutionize the education experience for both students and teachers.
